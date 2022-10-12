@@ -22,7 +22,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Athenas Technology",
+    title: "Octo Stdio Lab",
     cardImage: "assets/images/project-page/nanga.jpg",
     description: "Esta Web.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
