@@ -7,16 +7,16 @@ const exp = [
   {
     title: "Desarrollo Web",
     cardImage: "assets/images/experience-page/software.jpg",
-    place: "Athenas Technology ",
+    place: "Espacio Digital ",
     time: "(May, 2019 - present)",
-    desp: "<li>Empece aprendiendo por mi cuenta desde el 2019.</li>Ha sido un camino dificil pero hemos avanzado mucho.<li>Front-End y un poco de Back-End.</li><li>Tiendas en linea con carrito de compra.</li><li>Desarrollo de Aplicaciones Moviles.</li>",
+    desp: "<li>Desarrollmos tu espacio web almejor precio!<li.</li><li>",
   },
   {
     title: "Desarrolador de Blockchain",
     cardImage: "assets/images/experience-page/ethereum.jpeg",
     place: "DAPP",
     time: "(2021-present)",
-    desp: "<li>Creador de Colecciones de NFT.</li><li>Creacion del Minting DAPP.</li><li>Contratos Digitales.</li>",
+    desp: "<li>Creadores de Colecciones de NFT.</li><li>Creacion del Minting DAPP.</li><li>Contratos Digitales.</li>",
   },
   {
     title: "Diseño Grafico",
