@@ -29,6 +29,14 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
+  {
+    title: "Genesis Health",
+    cardImage: "assets/images/genesishealth.png",
+    description: "Tienda de suplementos nutricionales.",
+    tagimg: "https://dondeempiezatusalud.com",
+    Previewlink: "https://dondeempiezatusalud.com",
+    Githublink: "",
+  },
 ];
 
 // function for rendering project cards data
