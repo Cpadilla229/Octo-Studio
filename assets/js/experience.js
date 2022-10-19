@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/software.jpg",
     place: "Espacio Digital ",
     time: "(May, 2019 - present)",
-    desp: "<li>Desarrollmos tu espacio web almejor precio!<li.</li><li>",
+    desp: "<li>Desarrollmos tu espacio web al mejor precio!<li.</li>",
   },
   {
     title: "Desarrolador de Blockchain",
