@@ -136,7 +136,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Ponte en Contacto</h6>
               </div>
-                <form name="form1" action="https://formcarry.com/s/LhjwJ4hBV_" method="POST" accept-charset="UTF-8" >
+                <form name="form1" action="https://formcarry.com/s/TICmUUHgo" method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="name" placeholder="Nombre" required/>
                   <input id="email" type="email" name="email" placeholder="Correo electronico" required/>                  
                   <textarea id="textArea" name="message" placeholder="Escriba su mensaje" required></textarea>
