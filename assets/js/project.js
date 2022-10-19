@@ -26,7 +26,7 @@ const projects = [
     cardImage: "assets/images/project-page/nanga.jpg",
     description: "Esta Web.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
+    Previewlink: "https://octostudiolab.com",
     Githublink: "",
   },
   {
